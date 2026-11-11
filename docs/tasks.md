@@ -8,7 +8,9 @@ Frontend fixtures must be deterministic and visibly labeled as fictional preview
 
 ## GitHub issues
 
-All 50 task descriptions have moved to [GitHub Issues](https://github.com/lohengrin-01/fraudwatch/issues). The links below preserve the original task order; GitHub is the source of truth for task details and status.
+All 50 original task descriptions have moved to [GitHub Issues](https://github.com/lohengrin-01/fraudwatch/issues). PM grooming added two documentation follow-ups, bringing the backlog to 52 issues. Each issue includes Goal, Acceptance criteria, Out of scope, and Constraints; GitHub is the source of truth for task details and status.
+
+The links below preserve the original task numbering, not a strict dependency order. Complete the testing guide (#52) before writing tests, including task #1's smoke test, and the design guide (#51) before styled UI work. Task #1 remains the first implementation task; both guides are documentation-only prerequisites.
 
 | Task | Issue |
 |---|---|
@@ -62,3 +64,5 @@ All 50 task descriptions have moved to [GitHub Issues](https://github.com/loheng
 | 48 | [Verify cross-service scoring and recovery](https://github.com/lohengrin-01/fraudwatch/issues/48) |
 | 49 | [Verify multiuser concurrency and lifecycle behavior](https://github.com/lohengrin-01/fraudwatch/issues/49) |
 | 50 | [Document and rehearse the local demo](https://github.com/lohengrin-01/fraudwatch/issues/50) |
+| 51 | [Document the frontend design system](https://github.com/lohengrin-01/fraudwatch/issues/51) |
+| 52 | [Document testing guidelines](https://github.com/lohengrin-01/fraudwatch/issues/52) |
